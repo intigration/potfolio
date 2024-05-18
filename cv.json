@@ -1,0 +1,221 @@
+Here is the JSON representation of your detailed professional summary:
+
+```json
+{
+    "contact": {
+        "phone": "+92 300 4028200",
+        "email": "engr.farhan@icloud.com",
+        "address": "DHA phase-1, Lahore, Pakistan",
+        "links": {
+            "GitHub": "https://github.com/intigration/",
+            "LinkedIn": "https://www.linkedin.com/in/engr-farhan/",
+            "Docker Hub": "https://hub.docker.com/u/intigration",
+            "Postman": "https://www.postman.com/m-farhan"
+        }
+    },
+    "education": [
+        {
+            "institution": "BZU University (NFC IET)",
+            "degree": "BSc (Engg) in Electronics",
+            "years": "2003 – 2007"
+        },
+        {
+            "institution": "PAF Inter College Lahore",
+            "degree": "FSc. Pre Engineering",
+            "years": "2001-2002"
+        }
+    ],
+    "top_skills": [
+        "Competitive Advantage",
+        "Cross-team Collaboration",
+        "Product Lifecycle Management (Continuous Agile)",
+        "Machine Learning & Gen AI",
+        "Automation",
+        "Linux & Containerization"
+    ],
+    "top_programming_languages": [
+        "JavaScript: Hands-on with frameworks like React, Angular, and VueJs",
+        "Python: Widely used, also scripting",
+        "NodeJS development",
+        "Swift and Kotlin: For mobile app development on iOS and Android, respectively"
+    ],
+    "professional_courses": [
+        "ISTQB Certified Tester",
+        "Test Management in Polarion",
+        "Mendix Adv. Developer",
+        "Application Development Mindsphere (1 week onsite Erlagen Germany)",
+        "PMI ACP Training",
+        "CCNA / VOIP",
+        "Time Manager"
+    ],
+    "work_experience": [
+        {
+            "company": "GENISLAB TECHNOLOGIES",
+            "position": "AI CONSULTANT QA",
+            "duration": "SEP-23 – Present",
+            "responsibilities": [
+                "Quality targets definition and planning for MVP releases in continuous agile format",
+                "Performed consultation, coordination and collaboration within QA and customer",
+                "Generative AI Copilot / NLP Chabot Autonomous Agents & workflows",
+                "Writing and executing effective test cases and matrices (decision tables)",
+                "Data Testing (Analysis)– Testing different features and modules including different types of data",
+                "Team and task management to ensure risk-free and client-compliant project delivery"
+            ]
+        },
+        {
+            "company": "Digital Industries Factory Automation",
+            "position": "PLM AGILE EXPERT (QUALITY)",
+            "duration": "SEP-2022 - SEP-2023",
+            "responsibilities": [
+                "Led the overall QA activities for the AI and ML software product line which involves numerous GA product releases and various services projects",
+                "Product technical risk assessments, identification and mitigation",
+                "Product requirements analysis and maintain traceability",
+                "Collaborated closely with product managers, developers, and stakeholders to align testing efforts with project goals and user expectations",
+                "Identified missing scenarios, interoperability and integration cases in product specifications, provided improvements and functional feedback",
+                "Created project plans for different product releases, test automation and services projects",
+                "Reported daily, weekly, sprint retrospective, bi-monthly progress, defects status, release metrics to management",
+                "Provided training and support to team"
+            ]
+        },
+        {
+            "company": "Digital Industries Software (Technology & Innovation)",
+            "position": "TEAM LEAD QA",
+            "duration": "OCT-2017- SEP-2022",
+            "responsibilities": [
+                "Played a key role in executing on the IoT Software Platform test automation strategy, driving quality and testability of built over AWS",
+                "Managed resource allocation and developed cost-effective test plans meeting client requirements",
+                "Enabled integrated team’s environment and tooling-chain for faster collaboration",
+                "Product coverage analysis and test cases review",
+                "Test automation frameworks design and implementation",
+                "Processes development, implementation and improvements",
+                "Managed Jira for sprint monitoring and client interaction",
+                "Increased work visibility through interconnected task management workflow",
+                "Correspondence on issues with development teams and customers",
+                "Established management dashboard and reporting",
+                "Tracked and ensured compliance with requirements throughout SDLC, status reporting and ensuring quality release",
+                "A fully automated test deployment workflow initiated right from the SlackUI"
+            ]
+        },
+        {
+            "company": "Mentor Graphics Inc (www.mentor.com)",
+            "position": "SENIOR TECHNICAL LEAD",
+            "duration": "APR-2015 – SEP-2017",
+            "responsibilities": [
+                "Developed test plans and test procedures for testing of all components at module, system and integration levels, performing risk analysis when required",
+                "Adherence to existing processes, identifying process gaps and proposing improvements",
+                "Assisted project and product teams to increase test effectiveness and coverage, while reducing the cost of test execution",
+                "Ensuring requirement compliance in SDLC, identifying specifications gaps, taking follow-up and reviews to ensure timely, quality results",
+                "Led the execution of test cases through both automated and manual tests",
+                "Collaborating with stakeholders to defining and managing sprints using Jira",
+                "Creating and sharing status reports with management",
+                "Owned quality reporting, defect diagnostics, and software release sign-off",
+                "Conducting user acceptance demos with clients and engaging with remote teams on daily assignments",
+                "Provided training and support to team members"
+            ]
+        },
+        {
+            "company": "Intech Process Automation (www.intechww.com)",
+            "position": "QUALITY ASSURANCE MANAGER",
+            "duration": "JUL 2009- APR 2015",
+            "responsibilities": [
+                "Innovated sellable quality product",
+                "Contributed to IntelliMAX's success as a cutting-edge solution and marketable product for industrial applications",
+                "Team and Task Management - Developed and implemented strategic plans for risk-free, client-compliant delivery",
+                "Facilitated collaboration among development teams, architects, documentation specialists, project managers, commercial teams, and quality assurance groups",
+                "Led software testers and field engineers, crafted robust validation strategies, ensuring the reliability of mission-critical industrial systems",
+                "Tracked and traced requirements specifications throughout SDLC",
+                "Identified and suggested revisions to existing quality standards and processes"
+            ]
+        },
+        {
+            "company": "Imperious Technologies (www.imperioustech.com)",
+            "position": "APPLICATION ENGINEER",
+            "duration": "Sep 07- July 09",
+            "responsibilities": [
+                "Wrote test scripts to assess software quality, and develops automated test reporting to increase overall product validation process",
+                "Implemented health checks for deployed services, also update documentation for this runbook",
+                "Simulate tag values, alarm event, and historical data for OPC UA server compliance testing"
+            ]
+        }
+    ],
+    "projects": [
+        "Machine Learning and Flow Manager (Framework to develop AI apps)",
+        "ORION - (Machine learning model training runtime)",
+        "IntelliMAX (Industrial Automation & HMI Software)",
+        "CSP - Cloud Services Platform",
+        "Distributed Intelligence",
+        "IoT Device Management",
+        "M3 - Machine Monitoring & Management",
+        "OEE (Overall equipment efficiency)",
+        "OPC server & client compliance DA/HAD",
+        "PLC Alarming",
+        "Plant Assets Ontology ISA95",
+        "Plant Information Management System - SCADA Historian",
+        "Product security Cyber threat & risk assessment",
+        "SCADA hot redundant Server & Client Switchover",
+        "Simulation Twin Lab",
+        "Transfer of Technology",
+        "PLM Management"
+    ],
+    "technologies": [
+        "Functional Applications",
+        "Embedded Systems & Devices",
+        "Documentation Control Version",
+        "API & Microservices",
+        "Distributed Systems",
+        "AI and Machine Learning",
+        "Application Infrastructure & Middleware",
+        "Analytics & Modeling",
+        "OSS Clearance",
+        "Sensors",
+        "Platform as a Service (PaaS)",
+        "Networks & Connectivity",
+        "Processors & Edge Intelligence",
+        "Automation & Control",
+        "Robots",
+        "Wearables",
+        "Drones",
+        "CyberSecurity",
+        "Computer Software Validation (CSV)",
+        "Actuators",
+        "Linux based Controller and Industrial IPC",
+        "Generative AI & LLM",
+        "RAG & Model Fine-tuning"
+    ],
+    "application_testing_skills": [
+        "Web, Desktop and Mobile",
+        "White Box, Black Box",
+        "Grey Box testing",
+        "Functional / Non-Functional Testing",
+        "Smoke, Sanity, Regression",
+        "Cybersecurity, Penetration & NFR",
+        "Integration, Compatibility Testing",
+        "Performance testing",
+        "Load and Stress testing",
+        "Security / Penetration testing",
+        "Analytical Prioritization",
+        "Documentation",
+        "Test Case designing, execution",
+        "Writing RF/FS and User Manuals"
+    ],
+    "tools_and_software": [
+        "Postman / Newman",
+        "Selenium",
+        "ReadyAPI / SoapUI",
+        "Playwright",
+        "Cypress",
+        "Cucumber/Jasmine",
+        "Protractor/ Appium",
+        "Robot Framework",
+        "Katalon Studio",
+        "Microsoft365"
+    ],
+    "database_skills": [
+        "MS SQL Server/ MySQL",
+        "MogoDB, Sqlite",
+        "PostGres / Cassandra"
+    ],
+    "techniques": [
+        "Continuous Improvement",
+        "Agile Methodologies toolkit",
+       
